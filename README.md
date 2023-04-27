@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Abdujabbor Sattarov</h1>
 <h3 align="center">My name is Abdujabbor Sattarov . I'm JavaScript developer</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Abdujabbor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdujabbor)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
