@@ -3,7 +3,7 @@ My name is **Abdujabbor Sattarov**. I have been in the IT field for 1 year and I
 As a developer, I work with a variety of technologies to build efficient solutions.
 
   ## Technical Skills
-- **Programming Languages**: JavaScript, TypeScript, C++
+- **Programming Languages**: JavaScript, TypeScript
 - **Technologies**: Node.js, Express.js, Nest.js, MongoDB, Mongoose, PostgreSQL, TypeORM, Git
 - **Web Technologies**: HTML, CSS, React, Bootstrap.
 
